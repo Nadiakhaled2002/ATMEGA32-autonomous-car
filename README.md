@@ -4,4 +4,4 @@
 # Circuit:
   
   <img width="438" alt="Screenshot 2024-02-11 202339" src="https://github.com/Nadiakhaled2002/ATMEGA32-autonomous-car/assets/156091312/3712fe1d-0797-46b6-852f-d01e2599a733">
-  # Car in action:
+# Car in action:
