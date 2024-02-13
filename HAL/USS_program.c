@@ -53,7 +53,7 @@ void GetDistance(u16*dist)
 			flag=0;
 			//time -->count:time2-tim1 *overflow that happened during cycle *tick time*ticks
 			count = ((unsigned long)capt2+(unsigned long)(ovf*65536))-(unsigned long)capt1;
-			//distance =time/speed of ultrasonic wave
+			//distance =time*speed of ultrasonic wave
 			distance = (double)count/932.95;
 if(distance>=2 && distance<=80)
 {
